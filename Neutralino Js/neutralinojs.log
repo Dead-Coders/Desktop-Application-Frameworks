@@ -1,0 +1,9 @@
+INFO 2024-06-02 10:50:39,093 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+ERROR 2024-06-02 10:51:30,911 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Deadb@DESKTOP-D9OVATO
+INFO 2024-06-02 10:51:50,082 Reloading the application... api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+ERROR 2024-06-02 10:52:16,136 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Deadb@DESKTOP-D9OVATO
+INFO 2024-06-02 10:53:00,634 Reloading the application... api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+INFO 2024-06-02 10:53:20,881 Reloading the application... api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+INFO 2024-06-02 10:53:58,621 Reloading the application... api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+INFO 2024-06-12 11:23:28,262 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Deadb@DESKTOP-D9OVATO
+ERROR 2024-06-12 11:23:51,840 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Deadb@DESKTOP-D9OVATO
